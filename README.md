@@ -117,7 +117,7 @@ supported, but MIGHT cause unknown issue.
 There are a few environmental variables used in building and teating this plugin.
 Here is an example:
 ```
-   cat ~/.bashrc
+   cat ~/.bash_profile
    :
    export GOPATH=~/go
    export CNI_PATH=$GOPATH/src/github.com/containernetworking/plugins/bin
